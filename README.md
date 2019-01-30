@@ -1,1 +1,3 @@
-# artorders.github.io
+ License
+ 
+ See LICENSE.txt
